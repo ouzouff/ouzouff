@@ -1,6 +1,12 @@
 # Pascal Ouzeau
 
-Développeur **Front-end spécialisé Vue.js**, avec une solide expérience sur des projets web à forts enjeux, notamment dans le **secteur public**.
+**Lead développeur frontend**, je travaille sur le framework officiel CLIR de la DGFiP, basé sur **Vue.js** et le **DSFR**, utilisé par plus de 140 projets.
+
+J’interviens sur la conception et l’évolution d’un socle frontend partagé, avec des enjeux d’architecture, de gouvernance technique, d’accessibilité et de maintenabilité à grande échelle.
+
+J’ai également formé plus de 200 développeurs à Vue.js et au framework, ce qui nourrit une approche pragmatique, orientée production et transmission.
+
+Je partage ici mes retours d’expérience sur Vue.js, les frameworks frontend et le développement à l’échelle.
 
 Mon travail est guidé par trois priorités : **qualité**, **maintenabilité** et **accessibilité**.
 
